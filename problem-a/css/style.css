@@ -11,4 +11,8 @@ img {
   max-height: 400px;
 }
 
+li.important {
+  color: #34568B;
+}
+
   
