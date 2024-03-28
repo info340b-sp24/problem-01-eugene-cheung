@@ -1,18 +1,14 @@
-html {
+body {
     font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 p {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  }
+  line-height: 1.5;
+}
 
-  div {
-    line-height: 1.5;
-    font-size: 16pt;
-  }
-
-  img {
-    height: 400px;
-  }
+img {
+  max-height: 400px;
+}
 
   
